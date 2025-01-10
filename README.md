@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vartan!</h1>
-<h3 align="center">C++ and Rust Software Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vardbabayan&label=Profile%20views&color=0e75b6&style=flat" alt="vardbabayan" /> </p>
-
+- Hey, I'm Vartan! 
+- C++ and Rust Software Engineer
+- Tinkering with Distributed Systems and Databases
 - 🔭 I’m currently working on [Picodata - distributed NewSQL Database](https://github.com/picodata/picodata)
 
 <!--
